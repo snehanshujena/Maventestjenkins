@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13334" started-at="2019-09-15T14:09:04Z" finished-at="2019-09-15T14:09:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13334" started-at="2019-09-15T14:09:04Z" finished-at="2019-09-15T14:09:18Z">
+      <class name="com.edureka.maven.LoginPage">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.edureka.maven.LoginPage@129a8472]" name="testSetUp" is-config="true" duration-ms="4758" started-at="2019-09-15T19:39:04Z" finished-at="2019-09-15T19:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:com.edureka.maven.LoginPage@129a8472]" name="verifyGooglePageTittle" duration-ms="7342" started-at="2019-09-15T19:39:09Z" finished-at="2019-09-15T19:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edureka.maven.LoginPage@129a8472]" name="tearDown" is-config="true" duration-ms="1223" started-at="2019-09-15T19:39:16Z" finished-at="2019-09-15T19:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edureka.maven.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
